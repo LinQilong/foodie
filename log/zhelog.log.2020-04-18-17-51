@@ -1,0 +1,10 @@
+2020-04-18 17:51:13 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-04-18 17:51:13 INFO  DispatcherServlet:546 - Completed initialization in 17 ms
+2020-04-18 17:51:16 INFO  CookieUtils:210 - ========== domainName: localhost ==========
+2020-04-18 17:51:22 INFO  ServiceLogAspect:18 - ====== 开始执行 class com.imooc.service.impl.UserServiceImpl.queryUserForLogin ======
+2020-04-18 17:51:22 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2020-04-18 17:51:22 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2020-04-18 17:51:22 INFO  ServiceLogAspect:37 - ====== 执行结束，耗时 315 毫秒 ======
+2020-04-18 17:51:32 INFO  ServiceLogAspect:18 - ====== 开始执行 class com.imooc.service.impl.UserServiceImpl.queryUserForLogin ======
+2020-04-18 17:51:32 INFO  ServiceLogAspect:37 - ====== 执行结束，耗时 7 毫秒 ======
+2020-04-18 17:51:32 INFO  CookieUtils:210 - ========== domainName: localhost ==========

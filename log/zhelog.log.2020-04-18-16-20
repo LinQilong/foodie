@@ -1,0 +1,5 @@
+2020-04-18 16:20:17 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-04-18 16:20:17 INFO  DispatcherServlet:546 - Completed initialization in 10 ms
+2020-04-18 16:20:17 INFO  HelloController:22 - Hello~
+2020-04-18 16:20:17 WARN  HelloController:23 - Hello~
+2020-04-18 16:20:17 ERROR HelloController:24 - Hello~
